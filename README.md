@@ -26,22 +26,25 @@ Free Resources:
 4) CSES Problem Set: https://cses.fi/problemset/
 
 YouTube Channels:
-1) Kartik Arora: https://www.youtube.com/user/MrHulasi...
-2) Errichto: https://www.youtube.com/channel/UCBr_...
-3) Code N Code: https://www.youtube.com/channel/UC0zv...
-4) Demoralizer: https://www.youtube.com/channel/UCGS5... 
-5) Colin Galen: https://www.youtube.com/channel/UCpvS...
+1) Kartik Arora: https://www.youtube.com/user/MrHulasingh25
+2) Errichto: https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
+3) Code N Code: https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ
+4) Demoralizer: https://www.youtube.com/channel/UCGS5ZzcSAymQbWZvNoKOFhQ 
+5) Colin Galen: https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw
 
 Coding Ninjas Referral code:
 https://www.codingninjas.com/?referra...
 Use it to get a discount of Rs. 1000 on any course at Coding Ninjas
 Not promoting anything here!
 
-Coding Websites:
-1) CodeForces: https://codeforces.com/
-2) CodeChef: https://www.codechef.com/
-3) AtCoder: https://atcoder.jp/
-4) Hacker Earth: https://www.hackerearth.com/
-5) Hacker Rank: https://www.hackerrank.com/
-6) TopCoder: https://www.topcoder.com/
-
+-----------------------
+Some useful websites for Competitive Programming mentioned in the Video:
+https://codeforces.com/ (Codeforces)
+https://www.codechef.com/ (Codechef)
+https://www.hackerrank.com/ (Hackerrank)
+https://www.hackerearth.com/ (Hackerearth)
+https://www.spoj.com/ (SPOJ) 
+https://a2oj.com/ (A20J ladders)
+https://www.geeksforgeeks.org/ (GeeksForGeeks)
+AtCoder: https://atcoder.jp/
+TopCoder: https://www.topcoder.com/
