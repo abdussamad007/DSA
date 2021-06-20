@@ -39,12 +39,13 @@ Not promoting anything here!
 
 -----------------------
 Some useful websites for Competitive Programming mentioned in the Video:
-https://codeforces.com/ (Codeforces)
-https://www.codechef.com/ (Codechef)
-https://www.hackerrank.com/ (Hackerrank)
-https://www.hackerearth.com/ (Hackerearth)
-https://www.spoj.com/ (SPOJ) 
-https://a2oj.com/ (A20J ladders)
-https://www.geeksforgeeks.org/ (GeeksForGeeks)
-AtCoder: https://atcoder.jp/
-TopCoder: https://www.topcoder.com/
+
+1. https://codeforces.com/ (Codeforces)
+2. https://www.codechef.com/ (Codechef)
+3. https://www.hackerrank.com/ (Hackerrank)
+4. https://www.hackerearth.com/ (Hackerearth)
+5. https://www.spoj.com/ (SPOJ) 
+6. https://a2oj.com/ (A20J ladders)
+7. https://www.geeksforgeeks.org/ (GeeksForGeeks)
+8. AtCoder: https://atcoder.jp/
+9. TopCoder: https://www.topcoder.com/
